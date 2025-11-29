@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI\\MinimalAPI.csproj": {}
+    "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI.csproj": {}
   },
   "projects": {
-    "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI\\MinimalAPI.csproj": {
+    "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI\\MinimalAPI.csproj",
+        "projectUniqueName": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI.csproj",
         "projectName": "MinimalAPI",
-        "projectPath": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI\\MinimalAPI.csproj",
+        "projectPath": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI.csproj",
         "packagesPath": "C:\\Users\\AFAQE\\.nuget\\packages\\",
-        "outputPath": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI\\obj\\",
+        "outputPath": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

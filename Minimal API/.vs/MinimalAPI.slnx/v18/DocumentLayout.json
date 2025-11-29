@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\",
+  "WorkspaceRootPath": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A9F137C-8339-41A9-AF8F-87DAAF241B7B}|MinimalAPI\\MinimalAPI.csproj|d:\\github repos\\dotnet\\28. minimal api\\minimal api\\minimalapi\\minimalapi\\mapgroups\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A9F137C-8339-41A9-AF8F-87DAAF241B7B}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\mapgroups\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6FBFEEE-2D41-BDF9-D30B-37B2CE953581}|MinimalAPI\\MinimalAPI.csproj|d:\\github repos\\dotnet\\28. minimal api\\minimal api\\minimalapi\\mapgroups\\productsmapgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FBFEEE-2D41-BDF9-D30B-37B2CE953581}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\mapgroups\\productsmapgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A9F137C-8339-41A9-AF8F-87DAAF241B7B}|MinimalAPI\\MinimalAPI.csproj|d:\\github repos\\dotnet\\28. minimal api\\minimal api\\minimalapi\\minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A9F137C-8339-41A9-AF8F-87DAAF241B7B}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6FBFEEE-2D41-BDF9-D30B-37B2CE953581}|MinimalAPI\\MinimalAPI.csproj|d:\\github repos\\dotnet\\28. minimal api\\minimal api\\minimalapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FBFEEE-2D41-BDF9-D30B-37B2CE953581}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A9F137C-8339-41A9-AF8F-87DAAF241B7B}|MinimalAPI\\MinimalAPI.csproj|d:\\github repos\\dotnet\\28. minimal api\\minimal api\\minimalapi\\minimalapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A9F137C-8339-41A9-AF8F-87DAAF241B7B}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6FBFEEE-2D41-BDF9-D30B-37B2CE953581}|MinimalAPI\\MinimalAPI.csproj|d:\\github repos\\dotnet\\28. minimal api\\minimal api\\minimalapi\\endpointfilters\\customendpointfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FBFEEE-2D41-BDF9-D30B-37B2CE953581}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\endpointfilters\\customendpointfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A9F137C-8339-41A9-AF8F-87DAAF241B7B}|MinimalAPI\\MinimalAPI.csproj|d:\\github repos\\dotnet\\28. minimal api\\minimal api\\minimalapi\\minimalapi\\endpointfilters\\customendpointfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A9F137C-8339-41A9-AF8F-87DAAF241B7B}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\endpointfilters\\customendpointfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6FBFEEE-2D41-BDF9-D30B-37B2CE953581}|MinimalAPI\\MinimalAPI.csproj|d:\\github repos\\dotnet\\28. minimal api\\minimal api\\minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FBFEEE-2D41-BDF9-D30B-37B2CE953581}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,54 +71,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FileName.cs",
-              "DocumentMoniker": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI\\MapGroups\\FileName.cs",
-              "RelativeDocumentMoniker": "MinimalAPI\\MapGroups\\FileName.cs",
-              "ToolTip": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI\\MapGroups\\FileName.cs",
-              "RelativeToolTip": "MinimalAPI\\MapGroups\\FileName.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAIwFQAAABGAAAAAAAAAA==",
+              "Title": "ProductsMapGroup.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MapGroups\\ProductsMapGroup.cs",
+              "RelativeDocumentMoniker": "MinimalAPI\\MapGroups\\ProductsMapGroup.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MapGroups\\ProductsMapGroup.cs",
+              "RelativeToolTip": "MinimalAPI\\MapGroups\\ProductsMapGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T20:08:19.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI\\Models\\Product.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "MinimalAPI\\Models\\Product.cs",
-              "ToolTip": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\Models\\Product.cs",
               "RelativeToolTip": "MinimalAPI\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T20:07:42.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T20:07:42.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomEndpointFilter.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\EndpointFilters\\CustomEndpointFilter.cs",
+              "RelativeDocumentMoniker": "MinimalAPI\\EndpointFilters\\CustomEndpointFilter.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\EndpointFilters\\CustomEndpointFilter.cs",
+              "RelativeToolTip": "MinimalAPI\\EndpointFilters\\CustomEndpointFilter.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:07:09.07Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CustomEndpointFilter.cs",
-              "DocumentMoniker": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI\\EndpointFilters\\CustomEndpointFilter.cs",
-              "RelativeDocumentMoniker": "MinimalAPI\\EndpointFilters\\CustomEndpointFilter.cs",
-              "ToolTip": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI\\EndpointFilters\\CustomEndpointFilter.cs",
-              "RelativeToolTip": "MinimalAPI\\EndpointFilters\\CustomEndpointFilter.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAywBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T20:07:09.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI\\Program.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\Program.cs",
               "RelativeDocumentMoniker": "MinimalAPI\\Program.cs",
-              "ToolTip": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\MinimalAPI\\Program.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\28. Minimal API\\Minimal API\\MinimalAPI\\Program.cs",
               "RelativeToolTip": "MinimalAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T18:56:02.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T18:56:02.723Z"
             }
           ]
         },
